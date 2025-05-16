@@ -1,7 +1,0 @@
-{
-  "name": "LookML Tools",
-  "build": {
-    "context": "..",  // プロジェクトルートを指定
-    "dockerfile": "Dockerfile"
-  }
-}
