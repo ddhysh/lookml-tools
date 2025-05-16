@@ -1,6 +1,6 @@
 {
     "infile_globs": [
-        "../somerepo/*.lkml"
+        "../looker-jindwh3_ex1/*.lkml"
     ],
 
     "output": "graph.png",
